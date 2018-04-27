@@ -1,5 +1,7 @@
 module SolverStubs
 
-# package code goes here
+function nlsolve end
+function fixedpoint end
+function seqsolve end
 
 end # module
